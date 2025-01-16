@@ -33,10 +33,4 @@ Discover the joy of cooking with our Recipe App! Built with Laravel, it's your g
 <img src="https://drive.google.com/uc?export=view&id=1AEPsCtYWN3wncFIpIkdBbzjC9B53C59K" width="500" >
 <img src="https://drive.google.com/uc?export=view&id=13FzgQsr-AfgmTaHn26eyoPQ42xo7nW-m" width="500" >
 
-## Contact
 
-🚀 Sherwin Roxas 🌟<br>
-📧 Email: cosmicsher96@gmail.com / sherwinroxas602@gmail.com 📧<br>
-📱 Phone: +63950-909-8702 / +63994-215-2415 📱<br>
-💻 Laravel & Livewire Developer Extraordinaire 💻<br>
-🌐 Let's turn your ideas into reality! 🌐
